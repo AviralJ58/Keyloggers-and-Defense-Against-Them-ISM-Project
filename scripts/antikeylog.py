@@ -31,14 +31,9 @@ class Process(object):
             return '%s' %self.pid
 
         def kill_logger(key_pid):
-            stdout.write("\n\nDo you want to stop this process: y/n ?"),
-            response = input()
-            if (response=="y" or response =="Y"):
-                try:
-                    os.kill(int(key_pid), signal.SIGILL)
-                except OSError:
-                    pass
-            else:
+            try:
+                os.kill(int(key_pid), signal.SIGILL)
+            except OSError:
                 pass
 
         def get_process_list():
@@ -68,5 +63,5 @@ class Process(object):
                         flag=0
                         
                 record+=1
-        if(flag):
-            print("No Keylogger Detected")
+            if(flag):
+                print("No Keylogger Detected")
